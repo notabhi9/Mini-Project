@@ -1,3 +1,10 @@
+/*
+Author: Abhinav Gupta
+Roll Number: 2201CS03
+A table hockey game coded in C that connects to the DE1-SOC board for input and uses a VGA display for output
+*/
+
+
 #include <math.h>
 #include <stdlib.h>
 #include <stdio.h>

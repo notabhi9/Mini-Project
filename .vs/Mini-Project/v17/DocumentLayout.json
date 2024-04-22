@@ -38,8 +38,7 @@
               "RelativeToolTip": "images.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-20T06:50:31.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T06:50:31.945Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "main.c",
               "ToolTip": "C:\\Users\\abhin\\source\\repos\\Mini-Project\\main.c",
               "RelativeToolTip": "main.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMFAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-04-20T06:50:30.686Z",
               "EditorCaption": ""
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Resources\\Resources.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-04-19T20:17:15.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T20:17:15.859Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "README.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-04-19T20:17:01.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T20:17:01.836Z"
             }
           ]
         }
